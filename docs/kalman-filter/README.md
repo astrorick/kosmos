@@ -1,6 +1,6 @@
 # Kalman Filter
 
-Kalman filters are a family of sequential algorithms used for estimating the state of a system from noisy observations. They are widely used in the filds of control systems, robotics, aerospace, and finance. There are many types of Kalman filters, the main implementations used in aerospace being:
+Kalman filters are a family of sequential algorithms used for estimating the state of a system from noisy observations. They are widely used in the fields of control systems, robotics, aerospace, and finance. There are many types of Kalman filters, the main implementations used in aerospace being:
 
 ## Standard Kalman Filter (KF)
 
